@@ -1,4 +1,4 @@
- CardioGuard AI
+ **CardioGuard AI**
 
 **Heart Disease Prediction System** — A modern healthcare dashboard powered by Machine Learning.
 
