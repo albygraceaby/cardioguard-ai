@@ -37,3 +37,5 @@ streamlit run app.py
 <img width="1746" height="848" alt="image" src="https://github.com/user-attachments/assets/eae9d54b-8159-4df6-aae6-e58fe712497b" />
 <img width="1896" height="831" alt="image" src="https://github.com/user-attachments/assets/4be3239e-bb73-457c-949e-df512b310660" />
 
+## Deployed Link
+https://5xubm843zzgb4vzj8ba5cv.streamlit.app/
