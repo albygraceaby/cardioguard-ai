@@ -40,6 +40,3 @@ streamlit run app.py
 |:---:|:---:|
 | Confusion matrix & feature importance | Chat bubble interface |
 
-## License
-
-MIT
