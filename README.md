@@ -32,6 +32,8 @@ streamlit run app.py
 
 ## Screenshots
 <img width="1906" height="786" alt="image" src="https://github.com/user-attachments/assets/245f8615-d66d-4fd0-b04d-cd082bc7d149" />
+<img width="1887" height="742" alt="image" src="https://github.com/user-attachments/assets/ede6f8fa-2e5e-4c33-99b9-3e35a1003497" />
+
 
 
 | Patient View | Doctor Dashboard |
